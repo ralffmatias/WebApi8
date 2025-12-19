@@ -143,9 +143,16 @@ O sistema pode ser utilizado em diferentes cenários, como:
 
 Abaixo estão alguns exemplos representativos do funcionamento do produto.
 
+## 🧱 Estrutura do Projeto
+![EFstrutura do Projeto](docs/imagens/estrutura-projeto.png)
 
+### 📘 Listagem de Livros
 ![Listagem de Livros](docs/imagens/listagem-livros.png)
+
+### ➕ Cadastro de Livro
 ![Cadastro de Livro](docs/imagens/cadastro-livro.png)
+
+### 👤 Detalhes do Autor
 ![Detalhes do Autores](docs/imagens/listagem-autores.png)
 
 ---
